@@ -8,7 +8,7 @@ Last year Royal Mail Advanced Analytics department was formally recognised by Da
 They will tell the story of Royal Mail's transformational journey that has seen them not only become an exciting place to work in data but also build a world-class culture of self-service and autonomy across their Data Science and Data Engineering teams.
 
 
-### Agenda of the night:
+## Agenda of the night:
 
 6:30pm - 7pm: Registration, welcome drinks, pizza & networking.
 
@@ -56,7 +56,5 @@ Abstract: In a data warehouse like BigQuery, location information is very common
 
 Bio: Kannappan Sirchabesan is a Cloud Data Engineer at Google helping large enterprises migrate big data and data science workloads to Google Cloud. He has been working on Big Data and Machine Learning technologies for the past several years.
 
-
-There are limited spaces available for this talk, so please register ASAP.
 
 If you have any questions regarding this event or would like to know more, please email nasua.turing@royalmail.com.
