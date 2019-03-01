@@ -1,4 +1,4 @@
-Accelerating Data Science Deployment
+# Accelerating Data Science Deployment
 
 
 On Wednesday 27th February, Royal Mail would like to invite you to an evening of drinks & talks from leaders in Data Science & Data Engineering.
@@ -8,7 +8,7 @@ Last year Royal Mail Advanced Analytics department was formally recognised by Da
 They will tell the story of Royal Mail's transformational journey that has seen them not only become an exciting place to work in data but also build a world-class culture of self-service and autonomy across their Data Science and Data Engineering teams.
 
 
-Here's the agenda for the night:
+### Agenda of the night:
 
 6:30pm - 7pm: Registration, welcome drinks, pizza & networking.
 
@@ -23,7 +23,8 @@ Here's the agenda for the night:
 8:35pm - 9pm: Drinks & networking.
 
 Here are the speaker/talk details:
-Dr Fabrice Durier
+
+## Dr Fabrice Durier
 
 Title: Efficient Route Optimisation, the Future of Parcel Delivery
 
@@ -32,7 +33,7 @@ Abstract: While the market leader in delivering parcels to British homes, Royal 
 Bio: Dr. Fabrice Durier works as a Data Scientist at Royal Mail. A Cosmologist turned Data Scientist, Fabrice specialises in optimisation problems. Focusing on improving the management of Royal Mail Operations, he develops innovative models into simulations of cost minimisation.
 
 
-Jorge Figueiredo
+## Jorge Figueiredo
 
 Title: What is the role of a Data Engineering team?
 
@@ -47,7 +48,7 @@ In this talk I will go from the theory of some of the concepts and practical pat
 Bio: Jorge Figueiredo is the Head of Data Engineering at Royal Mail. He is a software engineering leader with over 10 years of professional experience with passion about delivering great products on top of building and growing great engineering teams.
 
 
-Kannappan Sirchabesan
+## Kannappan Sirchabesan
 
 Title: BigQuery GeoSpatial
 
